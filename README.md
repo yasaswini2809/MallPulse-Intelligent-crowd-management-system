@@ -95,7 +95,6 @@
 
 <p align="center">
   <img src="Manager.png" alt="Manager operations dashboard" width="49%"/>
-  <img src="logo.png" alt="MallPulse logo" width="49%"/>
 </p>
 <p align="center"><sub>Left: manager dashboard. Right: MallPulse branding.</sub></p>
 
