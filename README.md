@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="image.png" alt="MallPulse" width="300"/>
+<img src="logo.png" alt="MallPulse logo" width="180"/>
 
 # MallPulse
 
@@ -26,8 +26,7 @@
 
 <br/>
 
-<!-- Replace with a real screenshot of the landing page or dashboard -->
-<img src="docs/screenshots/dashboard.png" alt="MallPulse shopper dashboard with crowd summary and floor heatmap" width="900"/>
+<img src="dashboard.png" alt="MallPulse shopper dashboard with crowd summary and floor heatmap" width="900"/>
 
 </div>
 
@@ -82,25 +81,23 @@
 
 ## Screenshots
 
-> Screenshots are placeholders. Run the app, capture each page, and save the images under `docs/screenshots/` using the names below.
-
 <p align="center">
-  <img src="docs/screenshots/landing.png" alt="Landing page and mall selection" width="49%"/>
-  <img src="docs/screenshots/dashboard.png" alt="Shopper dashboard" width="49%"/>
+  <img src="mall_Selection.png" alt="Landing page and mall selection" width="49%"/>
+  <img src="dashboard.png" alt="Shopper dashboard" width="49%"/>
 </p>
 <p align="center"><sub>Left: landing page and mall selection. Right: shopper dashboard with crowd summary.</sub></p>
 
 <p align="center">
-  <img src="docs/screenshots/heatmap.png" alt="Floor heatmap" width="49%"/>
-  <img src="docs/screenshots/store-history.png" alt="Store detail page with population history" width="49%"/>
+  <img src="Shopper.png" alt="Shopper view with mall crowd information" width="49%"/>
+  <img src="alerts.png" alt="Alert list with filters" width="49%"/>
 </p>
-<p align="center"><sub>Left: Plotly floor heatmap. Right: a stall's population across time slots.</sub></p>
+<p align="center"><sub>Left: shopper experience. Right: alert list with status, mall and floor filters.</sub></p>
 
 <p align="center">
-  <img src="docs/screenshots/manager.png" alt="Manager operations dashboard" width="49%"/>
-  <img src="docs/screenshots/alerts.png" alt="Alert list with filters" width="49%"/>
+  <img src="Manager.png" alt="Manager operations dashboard" width="49%"/>
+  <img src="logo.png" alt="MallPulse logo" width="49%"/>
 </p>
-<p align="center"><sub>Left: manager dashboard. Right: alert list with status, mall and floor filters.</sub></p>
+<p align="center"><sub>Left: manager dashboard. Right: MallPulse branding.</sub></p>
 
 | Screen | What it shows |
 |---|---|
